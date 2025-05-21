@@ -19,7 +19,7 @@ Data File: data/coupon.csv
 
 # Deliverables
 
-The final product should be a brief report that highlights the differences between customers who did and did not accept the coupons. 
+Jupyter Notebook: JK - Practical 5.1prompt.ipynb
 
 # The attributes of this data set include:
 
@@ -46,8 +46,18 @@ Passenger: alone, partner, kid(s), or friend(s)
 Coupon attributes
 time before it expires: 2 hours or one day
 
-# Conclusions
+# Analysis Findings
+* Overall acceptance rate based on this analysis is 57% on accepting the coupon overall (see Image A)
+* Output demonstrates that the combined factors of frequent bar visits and being over the age of 25 are strongly associated with a higher likelihood of accepting a bar coupon
+* Drivers most likely to accept bar coupons are frequent bar-goers (1–3 times/month), single, living alone, younger (under 30), and lower-income, especially those who visit cheap restaurants often. High-income drivers who rarely visit cheap restaurants are least likely to accept. Lifestyle and financial factors drive acceptance more than demographics alone.
 
+![Alt text](/images/Total.jpg)
+
+
+
+# Next Steps
+Further analysis can be done to include other variables not included in this project. 
+Considerations: weather, destination, time, gender, coupon expiration
 
 
 
