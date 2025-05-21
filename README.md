@@ -51,6 +51,7 @@ time before it expires: 2 hours or one day
 * Output demonstrates that the combined factors of frequent bar visits and being over the age of 25 are strongly associated with a higher likelihood of accepting a bar coupon
 * Drivers most likely to accept bar coupons are frequent bar-goers (1–3 times/month), single, living alone, younger (under 30), and lower-income, especially those who visit cheap restaurants often. High-income drivers who rarely visit cheap restaurants are least likely to accept. Lifestyle and financial factors drive acceptance more than demographics alone.
 
+*Image A*
 ![Alt text](/images/Total.jpg)
 
 
